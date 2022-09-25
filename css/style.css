@@ -1,0 +1,27 @@
+body {
+    background-color: #E1FFEE;
+}
+
+hr {
+    background-color: azure;
+    /* height: 2px;  to make height 0*/
+    border-style: none;
+    border-top-style: dotted;
+    /* border-style: dotted none none; last two for left and right */
+    border-width: 5px;
+    border-color: grey;
+    width: 5%;
+
+}
+h3
+   {
+    color:  #7FBCD2;
+   }
+h1:hover
+  {
+    color: #7FBCD2;
+    }
+    .keeper:hover{
+      /* background-color: red; */
+      box-shadow: 50px;
+    }
